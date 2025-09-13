@@ -43,6 +43,6 @@ Other strong performers were Random Forest, Gradient Boosting, and XGBoost, but 
 ## Resources
 
 Google Colab Notebooks:
-(https://colab.research.google.com/drive/12ZJJ_fgQi8yAmF-T2qXtK4fJxMwM0ODc#scrollTo=7rKVnQru9z63&line=1&uniqifier=1)
+(https://colab.research.google.com/drive/18_yRnN44ro6rRs8mSxNgm967AokjIgAR#scrollTo=Yb2pGofIyOyx)
 
 *"Smart ensembles today, smarter hybrids tomorrow — building the future of portfolio prediction."*
